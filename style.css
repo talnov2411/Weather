@@ -95,7 +95,7 @@ body{
 }
 @media (max-width:500px) {
     body{
-    background: #817373;
+    background: #aa4545;
 }
    
   .search input{
@@ -107,7 +107,7 @@ body{
     height: 30px;
     border-radius: 30px;
     flex: 1;                /*need to learn*/
-    margin-right: 10px;
+    margin-right: 2px;
     font-size: 18px;
 }
      .search button{
@@ -124,4 +124,5 @@ body{
     width: 10px;
 }
     
+
 }
