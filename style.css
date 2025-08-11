@@ -94,6 +94,9 @@ body{
     display: none;
 }
 @media (max-width:500px) {
+     body{
+    background: #817373;
+}
    
   .search input{
     border: 0;
@@ -122,3 +125,4 @@ body{
 }
     
 }
+
